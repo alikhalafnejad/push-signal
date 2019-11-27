@@ -22,6 +22,9 @@ android {
         release {
             minifyEnabled false
         }
+        debug {
+            minifyEnabled false
+        }
         unity {
             minifyEnabled false
         }
