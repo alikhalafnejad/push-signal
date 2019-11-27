@@ -1,0 +1,2 @@
+include ':app', ':pushsignal'
+rootProject.name='PushSignalApp'
